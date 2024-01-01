@@ -1,0 +1,11 @@
+matplotlib==3.8.2
+opencv-python==4.8.1.78
+scikit-image==0.22.0
+scikit-learn==1.0.2
+scipy==1.9.3
+supervision==0.17.1
+torch==1.13.0+cu116
+torch-summary==1.4.5
+torchaudio==0.13.0+cu116
+torchvision==0.14.0+cu116
+ultralytics==8.0.229
